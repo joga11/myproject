@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_clean_a_moka_pot">
+    <title>How to clean a moka pot?</title>
+    <shortdesc> Cleaning a moka pot is a very simple process and it only takes a few
+        minutes.</shortdesc>
+    <taskbody>
+        <context> Cleaning is a short activity but required after each use.<p>Wash the moka pot
+                thoroughly after use, dry, and store disassembled to avoid moisture build-up
+                inside.</p></context>
+        <steps>
+            <step>
+                <cmd>Wash all parts carefully with dishwashing liquid and thoroughly rinse and dry,
+                    especially if the moka pod is not used frequently, to prevent coffee
+                    sediments.</cmd>
+            </step>
+            <step>
+                <cmd>Do not wash aluminium pots or parts in the dishwasher.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe the gasket area with a wet sponge after use.</cmd>
+            </step>
+            <step>
+                <cmd>Occasionally remove the gasket for a thorough cleaning.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe clean filter plate as above. Occasionally remove it with the gasket for
+                    cleaning. Use a safety pin to clear any blocked holes in the filters to provide
+                    smooth flow.</cmd>
+            </step>
+            <step>
+                <cmd>Regularly wash the outside of an overpressure valve.</cmd>
+            </step>
+            <step>
+                <cmd>Occasionally, decalcify the pot to keep it clean on the inside.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

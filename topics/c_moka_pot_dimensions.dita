@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_moka_pot_dimensions">
+    <title>Moka pot dimensions</title>
+    <shortdesc> Available sizes of Bialetti's moka pots</shortdesc>
+    <conbody>
+        <p>Moka pots come in different sizes, making from one to eighteen 50 ml (2 imp fl oz; 2 US
+            fl oz) servings. The standard sizes for the Bialetti Moka Express are shown in
+            appropriate table. </p>
+        <fig id="fig_tqv_m31_wpb">
+            <title>Moka pots in different sizes</title>
+            <image placement="break" href="images/13485_moka_express_sizes.jpg" scale="70"
+                align="left" id="image_uqv_m31_wpb">
+                <alt>Moka pots in different sizes</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

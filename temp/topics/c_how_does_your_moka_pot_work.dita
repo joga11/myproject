@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Dysk E\Komunikacja techniczna\DanielBF\my project\temp\topics?><?workdir-uri file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="c_how_does_your_moka_pot_work" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="concept:1;3:45" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="title:1;4:12">How does your moka pot work?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="shortdesc:1;5:16"> Working principle of moka pot</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="p:1;7:12">Because water is stored in an enclosed space of a heating vessel, pressure builds as heat
+            is applied. This steam pressure forces the boiling water upward through a filter basket
+            (funnel) containing coffee grounds. The brew then continues to travel upward and outward
+            through the top of a small column and oozes into a coffee collector (upper chamber).</p>
+        <fig id="fig_kcg_hj1_wpb" class="- topic/fig " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="fig:1;11:35">
+            <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="title:2;12:20">How does your moka pot work</title>
+            <image placement="break" href="images/how-does-moka-pot-work.png" scale="70" align="left" id="image_lcg_hj1_wpb" class="- topic/image " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="image:1;14:53">
+                <alt class="- topic/alt " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_does_your_moka_pot_work.dita" xtrc="alt:1;15:22">How does your moka pot work</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

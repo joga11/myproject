@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_precautions_when_using_moka_pot">
+    <title>Precautions when using moka pot</title>
+    <shortdesc> Safety precautions</shortdesc>
+    <conbody>
+        <p>
+            <note id="note_jxr_vs1_wpb" type="danger"> Parts get hot! So use extreme care, use a
+                potholder and keep the hot parts out of children's reach!</note>
+            <note id="note_v55_qt1_wpb" type="caution"> Stay close by and do NOT leave the moka pod
+                unattended!</note>
+            <ul id="ul_nxl_hs1_wpb">
+                <li>Become familiar with how all parts should fit together before you start using
+                    your moka pot.</li>
+                <li>Use only properly ground coffee for stovetop coffee makers. Too fine grind can
+                    result in the filter getting clogged. If that happens, a brewing process will
+                    slow or stop and coffee will be over-extracted. Also, it is a safety
+                    hazard.</li>
+                <li>Fill water and coffee to the proper level, only to just below the overpressure
+                    valve.</li>
+                <li>Fill the filter with ground coffee loosely. Do NOT pack the grounds!</li>
+                <li>Remove the moka pod from the heat source to prevent the moka from boiling dry,
+                    which may cause damage to the gasket, the handle, and the pot, and to prevent
+                    scalding.</li>
+                <li>Maintain the parts in good condition and good working order.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

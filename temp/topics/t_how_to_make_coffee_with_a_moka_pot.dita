@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Dysk E\Komunikacja techniczna\DanielBF\my project\temp\topics?><?workdir-uri file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t_how_to_make_coffee_with_a_moka_pot" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="task:1;3:49" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="title:1;4:12">How to make coffee with a moka pot?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="shortdesc:1;5:16"> How to brew black coffee</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="context:1;7:18"> Description of the coffee brewing process<p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="p:1;7:63">
+                <note id="note_v14_jwh_wpb" type="danger" class="- topic/note " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="note:1;8:59"> During coffee brewing, all parts of the
+                    moka pot get hot, so use extreme care, use a potholder!</note>
+            </p><p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="p:2;10:20">
+                <fig id="fig_n1j_rwh_wpb" class="- topic/fig " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="fig:1;11:43">
+                    <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="title:2;12:28">Coffee Brewing, source: coffee-brewing-methods.com</title>
+                    <image placement="break" href="images/Coffee-Brewing.jpg" scale="80" align="left" id="image_o1j_rwh_wpb" class="- topic/image " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="image:1;14:61">
+                        <alt class="- topic/alt " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="alt:1;15:30">Coffee Brewing</alt>
+                    </image>
+                </fig>
+            </p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="steps:1;19:16">
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:1;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:1;21:22">Grind coffee beans, slightly coarser than espresso, but finer than drip.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:2;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:2;24:22">Fill the heating vessel of the moka pot with water up to just below the
+                    overpressure valve.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:3;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:3;28:22">Place the funnel filter into the heating vessel.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:4;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:4;31:22">Fill coffee into the filter, without overfilling or tamping. Do NOT pack the
+                    grounds!</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:5;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:5;35:22">Make sure a gasket is clean, wipe any coffee grounds off the gasket and screw
+                    on firmly the top coffee collector onto the heating vessel. If any grounds are
+                    on the gasket, pressure will be lost.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:6;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:6;40:22">Place the moka pot on a low flame or heat setting and focus the heat source
+                    underneath the heating vessel, not up the moka pot's sides.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:7;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:7;44:22">Listen for the gurgling sound (app. 6 minutes) that signals the water in the
+                    heating vessel is exhausted, and coffee brewing is finished. Remove the moka pot
+                    from the hot burner. Keep the lid closed until the gurgling sound stops.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="step:8;48:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_how_to_make_coffee_with_a_moka_pot.dita" xtrc="cmd:8;49:22">Next, carefully open the lid, stir the coffee with a spoon, and pour it into
+                    the cups. And enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

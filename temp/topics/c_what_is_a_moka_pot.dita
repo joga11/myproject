@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Dysk E\Komunikacja techniczna\DanielBF\my project\temp\topics?><?workdir-uri file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="c_what_is_a_moka_pot" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="concept:1;3:36" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="title:1;4:12">What is a Moka Pot?</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="shortdesc:1;5:16"> Learn basic information about a moka pot.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="p:1;7:12">The moka pot is a stovetop coffee maker for brewing coffee by passing boiling water
+            pressurised by steam through ground coffee. Italian engineer Alfonso Bialetti invented
+            the moka pot in 1933, and Bialetti Industries up to the present continues to produce the
+            same model under the trade name "Moka Express".</p>
+        <fig id="fig_nqk_nxy_vpb" class="- topic/fig " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="fig:1;11:35">
+            <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="title:2;12:20">Biatelli's moka pot, source: wikipedia.org</title>
+            <image placement="break" href="images/Biatelli%20moka%20pot.jpg" scale="70" align="left" id="image_oqk_nxy_vpb" class="- topic/image " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="image:1;14:40">
+                <alt class="- topic/alt " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="alt:1;15:22">Biatelli moka pot</alt>
+            </image>
+        </fig>
+        <note id="note_fgt_wxy_vpb" type="note" class="- topic/note " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="note:1;18:49">
+            <p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="p:2;19:16">Moka pot coffee is not espresso!</p>
+            <p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_what_is_a_moka_pot.dita" xtrc="p:3;20:16">Espresso is a method of brewing, and it requires ~9 bars of pressure to process. On
+                the other hand, moka pots use 1–1.5 bars of pressure. This means the coffee brewed
+                using moka pot is robust and extremely strong, but it is not espresso.</p>
+        </note>
+    </conbody>
+</concept>

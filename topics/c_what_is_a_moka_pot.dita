@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_what_is_a_moka_pot">
+    <title>What is a moka pot?</title>
+    <shortdesc> Learn basic information about a moka pot.</shortdesc>
+    <conbody>
+        <p>The moka pot is a stovetop coffee maker for brewing coffee by passing boiling water
+            pressurised by steam through ground coffee. Italian engineer Alfonso Bialetti invented
+            the moka pot in 1933, and Bialetti Industries up to the present continues to produce the
+            same model under the trade name "Moka Express".</p>
+        <fig id="fig_nqk_nxy_vpb">
+            <title>Biatelli's moka pot, source: wikipedia.org</title>
+            <image placement="break" href="images/Biatelli%20moka%20pot.jpg" scale="70" align="left"
+                id="image_oqk_nxy_vpb">
+                <alt>Biatelli moka pot</alt>
+            </image>
+        </fig>
+        <note id="note_fgt_wxy_vpb" type="note">
+            <p>Moka pot coffee is not espresso!</p>
+            <p>Espresso is a method of brewing, and it requires ~9 bars of pressure to process. On
+                the other hand, moka pots use 1–1.5 bars of pressure. This means the coffee brewed
+                using moka pot is robust and extremely strong, but it is not espresso.</p>
+        </note>
+    </conbody>
+</concept>

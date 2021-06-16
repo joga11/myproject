@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how_does_your_moka_pot_work">
+    <title>How does your moka pot work?</title>
+    <shortdesc> Working principle of moka pot</shortdesc>
+    <conbody>
+        <p>Because water is stored in an enclosed space of a heating vessel, pressure builds as heat
+            is applied. This steam pressure forces the boiling water upward through a filter basket
+            (funnel) containing coffee grounds. The brew then continues to travel upward and outward
+            through the top of a small column and oozes into a coffee collector (upper chamber).</p>
+        <fig id="fig_kcg_hj1_wpb">
+            <title>How does your moka pot work</title>
+            <image placement="break" href="images/how-does-moka-pot-work.png" scale="70"
+                align="left" id="image_lcg_hj1_wpb">
+                <alt>How does your moka pot work</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

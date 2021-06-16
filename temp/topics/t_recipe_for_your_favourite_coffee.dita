@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Dysk E\Komunikacja techniczna\DanielBF\my project\temp\topics?><?workdir-uri file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t_recipe_for_your_favourite_coffee" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="task:1;3:47" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="title:1;4:12">Recipe for your favourite coffee</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="shortdesc:1;5:16">Example recipe for moka pot</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="context:1;7:18"> Learn how to make coffee like from a coffee shop<p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="p:1;7:70"><image placement="break" href="images/favourite%20coffee.jpg" scale="50" align="left" id="image_sqj_dk3_wpb" class="- topic/image " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="image:1;9:44">
+                    <alt class="- topic/alt " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="alt:1;10:26">Favourite coffee</alt>
+                </image>Prepare the following ingredients:<ul id="ul_dlh_zh3_wpb" class="- topic/ul " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="ul:1;11:83">
+                    <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="li:1;12:25">100 ml moka pot coffee</li>
+                    <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="li:2;13:25">100 ml milk</li>
+                    <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="li:3;14:25">2 tablespoons chocolate syrup</li>
+                    <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="li:4;15:25">Toppings (optional)</li>
+                </ul></p><p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="p:2;16:29">Prepare the following equipment:<ul id="ul_m11_lj3_wpb" class="- topic/ul " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="ul:2;16:85">
+                    <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="li:5;17:25">Moka pot</li>
+                    <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="li:6;18:25">Milk steaming device (milk steamer or microwave/stovetop and a whisk)</li>
+                </ul></p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="steps:1;20:16">
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:1;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:1;22:22">Prepare your moka pot coffee</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:2;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:2;25:22">Heat your milk.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:3;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:3;28:22">Froth your milk.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:4;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:4;31:22">Add chocolate syrup.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:5;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:5;34:22">Add your moka pot coffee.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:6;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:6;37:22">Add the hot milk and foam.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="step:7;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/t_recipe_for_your_favourite_coffee.dita" xtrc="cmd:7;40:22">Add toppings and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

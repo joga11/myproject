@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Recipe for your favourite coffee","shortdesc":"<p class=\"shortdesc\">Example recipe for moka pot<\/p>","href":"topics\/t_recipe_for_your_favourite_coffee.html","attributes":{"data-id":"t_recipe_for_your_favourite_coffee"},"menu":{"hasChildren":false},"tocID":"t_recipe_for_your_favourite_coffee-d238e115","topics":[]}]});

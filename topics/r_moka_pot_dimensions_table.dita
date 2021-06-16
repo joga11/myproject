@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_moka_pot_dimensions">
+    <title>Moka pot dimensions</title>
+    <shortdesc> The following table shows the standard sizes for bialetti Moka Express.</shortdesc>
+    <refbody>
+        <table id="table_bhk_lf1_wpb">
+            <title>Moka pot dimensions</title>
+            <tgroup cols="7">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <colspec colname="c3" colnum="3"/>
+                <colspec colname="c4" colnum="4"/>
+                <colspec colname="c5" colnum="5"/>
+                <colspec colname="c6" colnum="6"/>
+                <colspec colname="c7" colnum="7"/>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry namest="c2" nameend="c4">Metric units</entry>
+                        <entry namest="c5" nameend="c7">US units</entry>
+                    </row>
+                    <row>
+                        <entry>Coffee cups</entry>
+                        <entry><b>Volume (ml)</b></entry>
+                        <entry><b>Height (mm)</b></entry>
+                        <entry><b>Base (mm)</b></entry>
+                        <entry><b>Volume (US fl oz)</b></entry>
+                        <entry><b>Height (in)</b></entry>
+                        <entry><b>Base (in)</b></entry>
+                    </row>
+                    <row>
+                        <entry>1</entry>
+                        <entry>60</entry>
+                        <entry>133</entry>
+                        <entry>64</entry>
+                        <entry>2</entry>
+                        <entry>5,25</entry>
+                        <entry>2,5</entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>200</entry>
+                        <entry>159</entry>
+                        <entry>83</entry>
+                        <entry>6,5</entry>
+                        <entry>6,25</entry>
+                        <entry>3,25</entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>300</entry>
+                        <entry>216</entry>
+                        <entry>102</entry>
+                        <entry>10</entry>
+                        <entry>8,5</entry>
+                        <entry>4</entry>
+                    </row>
+                    <row>
+                        <entry>9</entry>
+                        <entry>550</entry>
+                        <entry>254</entry>
+                        <entry>105</entry>
+                        <entry>18,5</entry>
+                        <entry>10</entry>
+                        <entry>4,125</entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>775</entry>
+                        <entry>292</entry>
+                        <entry>127</entry>
+                        <entry>25</entry>
+                        <entry>11,5</entry>
+                        <entry>5</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

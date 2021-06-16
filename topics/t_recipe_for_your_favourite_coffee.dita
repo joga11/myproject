@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recipe_for_your_favourite_coffee">
+    <title>Recipe for your favourite coffee</title>
+    <shortdesc>Example recipe for moka pot</shortdesc>
+    <taskbody>
+        <context> Learn how to make coffee like from a coffee shop<p><image placement="break"
+                    href="images/favourite%20coffee.jpg" scale="50" align="left"
+                    id="image_sqj_dk3_wpb">
+                    <alt>Favourite coffee</alt>
+                </image>Prepare the following ingredients:<ul id="ul_dlh_zh3_wpb">
+                    <li>100 ml moka pot coffee</li>
+                    <li>100 ml milk</li>
+                    <li>2 tablespoons chocolate syrup</li>
+                    <li>Toppings (optional)</li>
+                </ul></p><p>Prepare the following equipment:<ul id="ul_m11_lj3_wpb">
+                    <li>Moka pot</li>
+                    <li>Milk steaming device (milk steamer or microwave/stovetop and a whisk)</li>
+                </ul></p></context>
+        <steps>
+            <step>
+                <cmd>Prepare your moka pot coffee</cmd>
+            </step>
+            <step>
+                <cmd>Heat your milk.</cmd>
+            </step>
+            <step>
+                <cmd>Froth your milk.</cmd>
+            </step>
+            <step>
+                <cmd>Add chocolate syrup.</cmd>
+            </step>
+            <step>
+                <cmd>Add your moka pot coffee.</cmd>
+            </step>
+            <step>
+                <cmd>Add the hot milk and foam.</cmd>
+            </step>
+            <step>
+                <cmd>Add toppings and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Dysk E\Komunikacja techniczna\DanielBF\my project\temp\topics?><?workdir-uri file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="c_how_your_moka_pot_is_built" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="concept:1;3:44" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="title:1;4:12">How your moka pot is built</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="shortdesc:1;5:16"> Moka pot construction</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="p:1;7:12">The moka pot has a straightforward design.</p>
+        <fig id="fig_amj_4q1_wpb" class="- topic/fig " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="fig:1;8:35">
+            <title class="- topic/title " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="title:2;9:20">Design of Bialetti coffee pot</title>
+            <image placement="break" href="images/bialetti-moka-express_specs.jpg" scale="70" align="left" id="image_bmj_4q1_wpb" class="- topic/image " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="image:1;11:53">
+                <alt class="- topic/alt " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="alt:1;12:22">Design of Bialetti coffee pot</alt>
+            </image>
+            <ol id="ol_rlh_qq1_wpb" class="- topic/ol " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="ol:1;14:37">
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:1;15:21">Knob</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:2;16:21">Lid</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:3;17:21">Small Column</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:4;18:21">Coffee colector</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:5;19:21">Handle</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:6;20:21">Filter Plate</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:7;21:21">Gasket</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:8;22:21">Funnel</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:9;23:21">Heating Vessel</li>
+                <li class="- topic/li " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="li:10;24:21">Safety Valve</li>
+            </ol>
+        </fig>
+        <p class="- topic/p " xtrf="file:/D:/Dysk%20E/Komunikacja%20techniczna/DanielBF/my%20project/topics/c_how_your_moka_pot_is_built.dita" xtrc="p:2;27:12">Today the moka pots are mainly manufactured of aluminium. In fact, the first moka pot was
+            made of aluminium. This material shows ability to gain and lose heat quickly. It also is
+            affordable and versatile. Aluminium was the first option, but not the best one. At
+            present, stainless steel moka pots became more popular.</p>
+    </conbody>
+</concept>

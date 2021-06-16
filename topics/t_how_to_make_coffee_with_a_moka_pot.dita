@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_make_coffee_with_a_moka_pot">
+    <title>How to make coffee with a moka pot?</title>
+    <shortdesc> How to brew black coffee</shortdesc>
+    <taskbody>
+        <context> Description of the coffee brewing process<p>
+                <note id="note_v14_jwh_wpb" type="danger"> During coffee brewing, all parts of the
+                    moka pot get hot, so use extreme care, use a potholder!</note>
+            </p><p>
+                <fig id="fig_n1j_rwh_wpb">
+                    <title>Coffee Brewing, source: coffee-brewing-methods.com</title>
+                    <image placement="break" href="images/Coffee-Brewing.jpg" scale="80"
+                        align="left" id="image_o1j_rwh_wpb">
+                        <alt>Coffee Brewing</alt>
+                    </image>
+                </fig>
+            </p></context>
+        <steps>
+            <step>
+                <cmd>Grind coffee beans, slightly coarser than espresso, but finer than drip.</cmd>
+            </step>
+            <step>
+                <cmd>Fill the heating vessel of the moka pot with water up to just below the
+                    overpressure valve.</cmd>
+            </step>
+            <step>
+                <cmd>Place the funnel filter into the heating vessel.</cmd>
+            </step>
+            <step>
+                <cmd>Fill coffee into the filter, without overfilling or tamping. Do NOT pack the
+                    grounds!</cmd>
+            </step>
+            <step>
+                <cmd>Make sure a gasket is clean, wipe any coffee grounds off the gasket and screw
+                    on firmly the top coffee collector onto the heating vessel. If any grounds are
+                    on the gasket, pressure will be lost.</cmd>
+            </step>
+            <step>
+                <cmd>Place the moka pot on a low flame or heat setting and focus the heat source
+                    underneath the heating vessel, not up the moka pot's sides.</cmd>
+            </step>
+            <step>
+                <cmd>Listen for the gurgling sound (app. 6 minutes) that signals the water in the
+                    heating vessel is exhausted, and coffee brewing is finished. Remove the moka pot
+                    from the hot burner. Keep the lid closed until the gurgling sound stops.</cmd>
+            </step>
+            <step>
+                <cmd>Next, carefully open the lid, stir the coffee with a spoon, and pour it into
+                    the cups. And enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

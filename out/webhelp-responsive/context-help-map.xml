@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_what_is_a_moka_pot" path="topics/c_what_is_a_moka_pot.html"/>
+   <appContext helpID="c_moka_pot_dimensions" path="topics/c_moka_pot_dimensions.html"/>
+   <appContext helpID="r_moka_pot_dimensions" path="topics/r_moka_pot_dimensions.html"/>
+   <appContext helpID="c_how_your_moka_pot_is_built"
+               path="topics/c_how_your_moka_pot_is_built.html"/>
+   <appContext helpID="c_how_does_your_moka_pot_work"
+               path="topics/c_how_does_your_moka_pot_work.html"/>
+   <appContext helpID="c_how_to_use_moka_pot" path="topics/c_how_to_use_moka_pot.html"/>
+   <appContext helpID="c_precautions_when_using_moka_pot"
+               path="topics/c_precautions_when_using_moka_pot.html"/>
+   <appContext helpID="t_how_to_clean_the_moka_pot_before_frst_use"
+               path="topics/t_how_to_clean_the_moka_pot_before_frst_use.html"/>
+   <appContext helpID="t_how_to_make_coffee_with_a_moka_pot"
+               path="topics/t_how_to_make_coffee_with_a_moka_pot.html"/>
+   <appContext helpID="t_recipe_for_your_favourite_coffee"
+               path="topics/t_recipe_for_your_favourite_coffee.html"/>
+   <appContext helpID="t_how_to_clean_the_moka_pot_before_frst_use"
+               path="topics/t_how_to_clean_the_moka_pot_before_frst_use.html"/>
+</map>

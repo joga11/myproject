@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_how_your_moka_pot_is_built">
+    <title>How your moka pot is built</title>
+    <shortdesc> Moka pot construction</shortdesc>
+    <conbody>
+        <p>The moka pot has a straightforward design.</p>
+        <fig id="fig_amj_4q1_wpb">
+            <title>Design of Bialetti moka pot</title>
+            <image placement="break" href="images/bialetti-moka-express_specs.jpg" scale="70"
+                align="left" id="image_bmj_4q1_wpb">
+                <alt>Design of Bialetti coffee pot</alt>
+            </image>
+            <ol id="ol_rlh_qq1_wpb">
+                <li>Knob</li>
+                <li>Lid</li>
+                <li>Small Column</li>
+                <li>Coffee colector</li>
+                <li>Handle</li>
+                <li>Filter Plate</li>
+                <li>Gasket</li>
+                <li>Funnel</li>
+                <li>Heating Vessel</li>
+                <li>Safety Valve</li>
+            </ol>
+        </fig>
+        <p>Today the moka pots are mainly manufactured of aluminium. In fact, the first moka pot was
+            made of aluminium. This material shows ability to gain and lose heat quickly. It also is
+            affordable and versatile. Aluminium was the first option, but not the best one. At
+            present, stainless steel moka pots became more popular.</p>
+    </conbody>
+</concept>

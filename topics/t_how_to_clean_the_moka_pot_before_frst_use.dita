@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_clean_the_moka_pot_before_frst_use">
+    <title>How to clean the moka pot before first use?</title>
+    <shortdesc> What you should do before you brew coffee for the first time</shortdesc>
+    <taskbody>
+        <context> Perform this cleaning only once before using a new moka pot for the first
+                time.<p>The first brewing is carried out to clean the moka pot out before using it.
+                You also make sure the pressure relief valve is working ok.</p><p>Before using the
+                new moka pot for the first time:</p></context>
+        <steps>
+            <step>
+                <cmd>Fill the heating vessel with cool fresh water up to the level of the pressure
+                    relief valve.</cmd>
+            </step>
+            <step>
+                <cmd>Put some old used coffee grounds in the filter basket, attach the coffee
+                    collector and allow it to brew.</cmd>
+            </step>
+            <step>
+                <cmd>Throw away the first coffee brewed in the new pot.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

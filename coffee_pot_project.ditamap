@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Coffee pot project</title>
+    <topicmeta>
+        <author>Joanna Gajewska</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>JG</copyrholder>
+        </copyright>
+    </topicmeta>
+    <topicref href="topics/c_what_is_a_moka_pot.dita"/>
+    <topicref href="topics/c_moka_pot_dimensions.dita">
+        <topicref href="topics/r_moka_pot_dimensions_table.dita"/>
+    </topicref>
+    <topicref href="topics/c_how_your_moka_pot_is_built.dita"/>
+    <topicref href="topics/c_how_does_your_moka_pot_work.dita"/>
+    <topicref href="topics/c_how_to_use_moka_pot.dita">
+        <topicref href="topics/c_precautions_when_using_moka_pot.dita"/>
+        <topicref href="topics/t_how_to_clean_the_moka_pot_before_frst_use.dita"/>
+        <topicref href="topics/t_how_to_make_coffee_with_a_moka_pot.dita">
+            <topicref href="topics/t_recipe_for_your_favourite_coffee.dita"/>
+        </topicref>
+        <topicref href="topics/t_how_to_clean_a_moka_pot.dita"/>
+    </topicref>
+    <topicref href="out/coffee_pot_project.pdf" format="pdf"/>
+    <reltable title="Reltable moka pot dimensions">
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_moka_pot_dimensions.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/r_moka_pot_dimensions_table.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+    <reltable title="Reltable how to use a moka pot">
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_how_to_use_moka_pot.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_how_to_clean_the_moka_pot_before_frst_use.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_how_to_use_moka_pot.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_how_to_make_coffee_with_a_moka_pot.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_how_to_use_moka_pot.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_how_to_clean_a_moka_pot.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>
